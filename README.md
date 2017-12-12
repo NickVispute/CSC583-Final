@@ -10,7 +10,7 @@ develope this project
 
 # Architecture
 | VueJS |	Front end |
-| ----- | --------- |
+| :----- | :--------- |
 | **NodeJS** |	**Web server** |
 | **ExpressJS**	| **API** |
 | **MongoDB**	| **Databse** |
